@@ -1,0 +1,13 @@
+h2 {
+    background-color: rgb(122, 109, 194);
+    color: rgb(224, 237, 253);
+    opacity: 50%;
+
+}
+h3 {
+    color: rgb(115, 115, 136);
+}
+table, th, td {
+    border:5px solid rgb(34, 33, 34);
+    color: rgb(0, 0, 0);
+  }
